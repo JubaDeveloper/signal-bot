@@ -2,7 +2,7 @@
 
 ## 📑 Description 📑
 
-It's a basic bot to capture every signal from blaze website, produced to test my skills using java and websocket flow.
+It's a basic bot to capture every signal from blaze website.
 
 ## 🛠️ Functionalities 🛠️
 
